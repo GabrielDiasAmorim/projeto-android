@@ -62,6 +62,7 @@ main h2 {
 }
 main img {
     width: 100%;
+    margin: auto;
 }
 main img.pequeno {
     width: 50%;
